@@ -1,0 +1,11 @@
+[package]
+name = "Charity_app"
+version = "0.1.0"
+authors = []
+
+[dependencies]
+AptosFramework= { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
+
+[addresses]
+aptos_framework = "0x1"
+CharityModule = "0xf9ac9420e52ca2ffb2b157cb0340ed8ec2b4ba4bb9b73666422ad64e42287b71"
