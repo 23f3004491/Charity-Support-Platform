@@ -208,7 +208,7 @@ MIT
 
 ## Author
 
-Created for Aptos Meetup - Charity Support Platform dApp
+Tarun Gangwar 
 
 ---
 
